@@ -1,0 +1,2 @@
+# bilibili_color_selector_improvement-Tempermonkey-script
+本脚本增加了一个H5选择器，用于在发送Bilibili弹幕的时候，更加方便地选取颜色。
