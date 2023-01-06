@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Version -->
   <a href="https://github.com/Byron-Ding/bilibili_color_selector_improvement-Tempermonkey-script">
-    <img src="https://img.shields.io/badge/Version-v0.0.1-green">
+    <img src="https://img.shields.io/badge/Version-v1.2.7-green">
   </a>
   <!-- License -->
   <a href="[LICENSE](https://www.gnu.org/licenses/agpl-3.0.html)">
