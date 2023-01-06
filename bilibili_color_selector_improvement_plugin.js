@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili弹幕颜色设置选择器增强
-// @namespace    http://tampermonkey.net/
-// @version      1.2.6
+// @namespace    https://github.com/Byron-Ding/bilibili_color_selector_improvement-Tempermonkey-script
+// @version      1.2.7
 // @description  本脚本增加了一个H5选择器，用于在发送Bilibili弹幕的时候，更加方便地选取颜色。
 // @author       Byron Ding
 // @match        *.bilibili.com/video/*
