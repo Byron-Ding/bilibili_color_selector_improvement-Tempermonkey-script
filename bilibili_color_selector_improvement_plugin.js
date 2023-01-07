@@ -6,7 +6,7 @@
 // @author       Byron Ding
 // @match        *.bilibili.com/video/*
 // @match        *.bilibili.com/bangumi/*
-// @license      AGPL License
+// @license      AGPL-3.0 license
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.3.min.js
